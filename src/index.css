@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-softblue: #eff6ff;
+  --color-softblue-hover: #dbeafe;
+  --color-teal-light: #ccfbf1;
+  --color-teal-main: #14b8a6;
+  --color-teal-dark: #0f766e;
+  
+  /* Recommended Pastel Palette */
+  --color-pastel-pink: #FCE7F3;
+  --color-pastel-blue: #DBEAFE;
+  --color-pastel-purple: #EDE9FE;
+  --color-pastel-mint: #DCFCE7;
+  --color-pastel-peach: #FFE7D6;
+}
+
+@layer base {
+  body {
+    background-color: #f8fafc; /* slate-50 */
+    color: #1e293b; /* slate-800 */
+    font-family: "Inter", "Plus Jakarta Sans", system-ui, sans-serif;
+  }
+}
