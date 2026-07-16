@@ -33,7 +33,7 @@ const Section4Dasar = () => {
             viewport={{ once: true }}
             className="text-3xl md:text-4xl font-bold text-slate-800 mb-4"
           >
-            Skincare Dasar untuk Remaja (CTM)
+            Skincare Dasar untuk Remaja (CMS)
           </motion.h2>
           <motion.p 
             initial={{ opacity: 0, y: 20 }}
