@@ -52,7 +52,7 @@ const Section1Hero = () => {
             </span>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-slate-800 leading-tight mb-6">
               Smart Teen for <br className="hidden lg:block" />
-              <span className="text-[var(--color-teal-main)]">Beauty Skin</span>
+              <span className="text-[var(--color-teal-main)]">Healthy Skin</span>
             </h1>
             <p className="text-lg md:text-xl text-slate-600 mb-10 leading-relaxed max-w-2xl">
               Edukasi mengenai perawatan kulit yang aman, sederhana, dan sesuai untuk remaja agar mampu memilih produk skincare dengan bijak.
