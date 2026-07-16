@@ -25,7 +25,7 @@ const Footer = () => {
             <div className="flex items-center gap-3 mb-6">
               <Sparkles className="w-6 h-6 text-[var(--color-teal-main)] shrink-0" />
               <h3 className="text-xl font-extrabold text-slate-800 leading-tight">
-                Smart Teen for <br/><span className="text-[var(--color-teal-main)]">Beauty Skin</span>
+                Smart Teen for <br/><span className="text-[var(--color-teal-main)]">Healthy Skin</span>
               </h3>
             </div>
             <p className="mb-6 text-slate-600 font-medium">
@@ -52,7 +52,7 @@ const Footer = () => {
             </h4>
             <div className="flex flex-col gap-3">
               {[
-                { label: 'Beranda', target: 'Smart Teen for Beauty Skin' },
+                { label: 'Beranda', target: 'Smart Teen for Healthy Skin' },
                 { label: 'Apa Itu Kosmetik', target: 'Apa Itu Kosmetik?' },
                 { label: 'Skincare Dasar', target: 'Skincare Dasar untuk Remaja' },
                 { label: 'Jenis Kulit', target: 'Kenali Jenis Kulitmu' },
@@ -112,7 +112,7 @@ const Footer = () => {
         {/* COPYRIGHT */}
         <div className="border-t border-white/60 pt-8 flex flex-col items-center justify-center text-center">
           <p className="text-sm font-bold text-slate-700 mb-1">
-            &copy; 2026 Smart Teen for Beauty Skin
+            &copy; 2026 Smart Teen for Healthy Skin
           </p>
           <p className="text-xs text-slate-500 font-medium">
             KKN-PPM Universitas Gadjah Mada Periode 2 Tahun 2026
